@@ -4,7 +4,7 @@
 #
 Name     : mvn-jdo-api
 Version  : 3.0.1
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/javax/jdo/jdo-api/3.0.1/jdo-api-3.0.1.jar
 Source0  : https://repo1.maven.org/maven2/javax/jdo/jdo-api/3.0.1/jdo-api-3.0.1.jar
 Source1  : https://repo1.maven.org/maven2/javax/jdo/jdo-api/3.0.1/jdo-api-3.0.1.pom
